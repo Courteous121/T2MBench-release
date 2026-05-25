@@ -1,0 +1,20 @@
+category,subcategory,length_type,count
+Dynamics,Dance,long,50
+Dynamics,Dance,short,50
+Dynamics,Explosive,long,25
+Dynamics,Explosive,short,50
+Dynamics,Martial arts,long,50
+Dynamics,Martial arts,short,50
+Complexity,Multi-stage,long,50
+Complexity,Multi-stage,short,50
+Complexity,Asymmetric,long,50
+Complexity,Asymmetric,short,50
+Complexity,Balance,long,20
+Complexity,Balance,short,50
+Interaction,Intent,long,50
+Interaction,Intent,short,50
+Interaction,Invisible-object interaction,long,50
+Interaction,Invisible-object interaction,short,50
+Accuracy,Numerical,short,80
+Accuracy,Whole-body,accuracy,100
+Accuracy,Body-part,accuracy,100
