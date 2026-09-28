@@ -4,7 +4,7 @@ T2MBench is a text-to-motion benchmark organized around diverse instruction type
 
 ## Representative Prompt-level Comparisons
 
-The examples below provide a small set of prompt-level comparisons across 14 text-to-motion models. Due to the large scale of the generated data and related intellectual property considerations, we kindly note that the complete data package will be released after the paper is accepted.
+The examples below provide a small set of prompt-level comparisons across 14 text-to-motion models.
 
 ### T2MB_0276 - Complexity / Multi-stage
 
