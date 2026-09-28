@@ -7,11 +7,9 @@ motion under diverse natural-language instructions. The benchmark organizes
 prompts by category and subcategory, and provides prompt metadata and
 representative qualitative examples.
 
-This repository is a review-stage release. It contains benchmark prompts,
+This repository contains benchmark prompts,
 metadata, representative examples, and the LLM evaluator prompt template needed
-to inspect the benchmark structure. Due to the large scale of the generated data
-and related intellectual property considerations, the complete data package will
-be released after paper acceptance.
+to inspect the benchmark structure. 
 
 ## Released Contents
 
@@ -36,8 +34,7 @@ folder, source file, and local prompt index. The canonical prompt table is:
 
 Representative generated outputs are included only as lightweight qualitative
 examples. They are intended to help reviewers inspect prompt-level behavior
-across models. The full set of generated outputs will be released after paper
-acceptance.
+across models. 
 
 ## Intended Use
 
@@ -76,9 +73,4 @@ This repository is provided under the review-stage terms in `LICENSE`. Third-par
 models, datasets, code, and generated outputs may have their own licenses. Users
 are responsible for complying with all applicable third-party terms.
 
-## Maintenance and Future Release
 
-The current release is intended for review. After paper acceptance, the authors
-plan to release the complete benchmark package, including quantitative evaluation
-results, processing scripts, and the full generated outputs, with final
-documentation and license terms.
